@@ -1,5 +1,0 @@
-x= a
-b= 10
-c="king"
-d='boy'
-print(type)
